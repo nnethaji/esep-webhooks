@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nike/.Trash/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj": {}
+    "/Users/nike/Documents/ENTERPRISE/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj": {}
   },
   "projects": {
-    "/Users/nike/.Trash/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj": {
+    "/Users/nike/Documents/ENTERPRISE/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nike/.Trash/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+        "projectUniqueName": "/Users/nike/Documents/ENTERPRISE/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
         "projectName": "EsepWebhook",
-        "projectPath": "/Users/nike/.Trash/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+        "projectPath": "/Users/nike/Documents/ENTERPRISE/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
         "packagesPath": "/Users/nike/.nuget/packages/",
-        "outputPath": "/Users/nike/.Trash/EsepWebhook/src/EsepWebhook/obj/",
+        "outputPath": "/Users/nike/Documents/ENTERPRISE/EsepWebhook/src/EsepWebhook/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nike/.nuget/NuGet/NuGet.Config"
