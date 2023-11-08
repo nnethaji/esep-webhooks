@@ -33,3 +33,5 @@
 /Users/nike/.Trash/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.pdb
 /Users/nike/.Trash/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.genruntimeconfig.cache
 /Users/nike/.Trash/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/ref/EsepWebhook.dll
+/Users/nike/Documents/ENTERPRISE/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.sourcelink.json
+/Users/nike/Documents/ENTERPRISE/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/Newtonsoft.Json.dll

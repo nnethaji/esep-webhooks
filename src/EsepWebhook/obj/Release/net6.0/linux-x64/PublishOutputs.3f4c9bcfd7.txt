@@ -3,4 +3,5 @@
 /Users/nike/Documents/ENTERPRISE/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.pdb
 /Users/nike/Documents/ENTERPRISE/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
 /Users/nike/Documents/ENTERPRISE/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/nike/Documents/ENTERPRISE/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Newtonsoft.Json.dll
 /Users/nike/Documents/ENTERPRISE/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.dll
